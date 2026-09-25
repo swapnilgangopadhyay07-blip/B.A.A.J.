@@ -1,3 +1,4 @@
+<p align="center"><img src="https://github.com/user-attachments/assets/0b842cf0-5c3f-4856-8616-5957653eb8d8" alt="B.A.A.J. Logo" width="360"></p>
 # Project B.A.A.J.
 ### Broad Spectrum Autonomous Aerial Joint Rescue
 
