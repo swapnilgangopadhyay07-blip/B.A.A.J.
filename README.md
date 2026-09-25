@@ -125,7 +125,7 @@ B.A.A.J-<ROLE><ID>  "<CALLSIGN>"
 
 ---
 
-## 5. Available Support for Role-Specific UAVs
+## 5. Available Support for Role-Specific UAVs based on Airframe.
 
 Each UAV variant is purpose-built for a distinct role in the rescue pipeline, but all variants share a common navigation and communication core.
 
