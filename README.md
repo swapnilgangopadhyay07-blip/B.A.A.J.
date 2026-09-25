@@ -1,4 +1,4 @@
-# 🦅 Project B.A.A.J.
+# Project B.A.A.J.
 ### Broad Spectrum Autonomous Aerial Joint Rescue
 
 **Smart India Hackathon (SIH 2026)** · **Problem Statement:** `PS-26206` (Software Category)
