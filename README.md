@@ -65,15 +65,18 @@ The functioning prototype executes disaster reconnaissance through an automated 
 
   <img width="1920" height="1200" alt="Sentinel GCU Cesium 3D map view" src="https://github.com/user-attachments/assets/0abc4bb9-c872-4a9a-838c-befb765e8bf4" />
 
+
 - Relayed telemetry display
 
   <img width="6340" height="3634" alt="Sentinel GCU relayed telemetry display" src="https://github.com/user-attachments/assets/58a42e95-9cc0-4eab-a206-fee8c8b47f8e" />
+
 
 **MATLAB Simulation**
 
 - Test run in a default Simulink scene
 
-  <img width="766" height="480" alt="MATLAB Simulink test run in a default scene" src="https://github.com/user-attachments/assets/7fd78cdd-0f0c-43f4-b197-ad9491c45411" />
+  <img width="824" height="522" alt="{typeexcalidrawclipboard,elements {idTWimCFytCZpdhGaAHub8r,typeimage,x7189 756460070988,y8909 422975450347,width6383 040258789063,height3989 4001617431636,angle0,strokeColortransparent,backgroundC (1)" src="https://github.com/user-attachments/assets/baf91c99-01fb-49ca-a138-9a80836098df" />
+
 
 - Data collected by the UAV brain during the test run
 
@@ -147,7 +150,7 @@ The Courier is the relief-delivery unit, supplying relief materials directly to 
 
 ### BAAJ-C2XX — Overseer (Command / Relay)
 
-The Overseer is the high-altitude command and relay node, providing airborne coordination and mapping support for the rest of the fleet.
+The Overseer is the high-altitude command and relay node, providing airborne coordination and more Advanced LIDAR mapping support for the rest of the fleet.
 
 **Features:**
 - Full 3D map creation
