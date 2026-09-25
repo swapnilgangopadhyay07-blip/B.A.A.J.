@@ -28,13 +28,14 @@ Project B.A.A.J. is a multi-tier, hardware-agnostic autonomous aerial search-and
 | 🧠 **Hardware‑Agnostic Edge Brain** | An onboard compute runtime deployed on quadcopters to conduct autonomous obstacle avoidance, GPS‑denied navigation, sensor fusion, and real‑time survivor detection. |
 | 📡 **Resilient Field Mesh** | An ad‑hoc hybrid network combining Layer‑2 routing, edge pub/sub, and sub‑GHz store‑and‑forward links to maintain operations across compromised communication infrastructure. |
 
-> 🖼️ *Excalidraw — Total System Architectural Workflow and Data Pipeline*
-
 ---
 
 ## ⚙️ 2. Prototype Architecture & Operational Workflow
 
 The functioning prototype executes disaster reconnaissance through an automated four‑phase pipeline:
+
+<img width="1920" height="800" alt="Untitled design" src="https://github.com/user-attachments/assets/15a8cc42-36f0-4af1-83dd-c6167a7a82eb" />
+
 
 1. **Alert Parsing & Tactical Assignment**
    Cloud dispatchers (`dispatcher.py`) process disaster coordinates and query Firebase for the closest active rescue battalion. The tactical GCU generates optimized search polygons based on terrain topography.
