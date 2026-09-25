@@ -1,0 +1,55 @@
+{
+  "mission_id": "SIH-TACTICAL-RECON-PARK-01",
+  "plan": [
+    {
+      "step": 1,
+      "action": "TAKEOFF",
+      "alt": 14
+    },
+    {
+      "step": 2,
+      "action": "GOTO",
+      "north": 50,
+      "east": 0,
+      "alt": 14,
+      "yaw": 0
+    },
+    {
+      "step": 3,
+      "action": "GOTO",
+      "north": 120,
+      "east": 0,
+      "alt": 14,
+      "yaw": 0
+    },
+    {
+      "step": 4,
+      "action": "GOTO",
+      "north": 145,
+      "east": 30,
+      "alt": 14,
+      "yaw": 90
+    },
+    {
+      "step": 5,
+      "action": "SEARCH",
+      "north": 145,
+      "east": 50,
+      "alt": 14,
+      "pattern": "CREEPING_LINE"
+    },
+    {
+      "step": 6,
+      "action": "HOLD",
+      "duration_sec": 5
+    },
+    {
+      "step": 7,
+      "action": "RTL"
+    },
+    {
+      "step": 8,
+      "action": "LAND"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "B.A.A.J",
+  "description": "BROAD-SPECTRUM AUTONOMOUS AERIAL JOINT-RESCUE",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
