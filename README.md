@@ -1,7 +1,7 @@
 # Project B.A.A.J.
 ### Broad Spectrum Autonomous Aerial Joint Rescue
 
-**Smart India Hackathon (SIH 2026)** · **Problem Statement:** `PS-26206` (Software Category)
+**Smart India Hackathon (SIH 2026)** · **Problem Statement:** `SIH26206` (Software Category)
 
 ---
 
@@ -59,7 +59,7 @@ The functioning prototype executes disaster reconnaissance through an automated 
 ## 🎥 3.2. Prototype Images
 
 -**Ground Control Unit, codenamed ("Sentinel")**
---**Using Ceasium 3d Map**
+--**Using Cesium 3d Map**
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0abc4bb9-c872-4a9a-838c-befb765e8bf4" />
 --**Display of relayed Telemetry**
 <img width="6340" height="3634" alt="image" src="https://github.com/user-attachments/assets/58a42e95-9cc0-4eab-a206-fee8c8b47f8e" />
