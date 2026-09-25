@@ -36,7 +36,6 @@ The functioning prototype executes disaster reconnaissance through an automated 
 
 <img width="1920" height="800" alt="Untitled design" src="https://github.com/user-attachments/assets/15a8cc42-36f0-4af1-83dd-c6167a7a82eb" />
 
-
 1. **Alert Parsing & Tactical Assignment**
    Cloud dispatchers (`dispatcher.py`) process disaster coordinates and query Firebase for the closest active rescue battalion. The tactical GCU generates optimized search polygons based on terrain topography.
 
@@ -49,19 +48,27 @@ The functioning prototype executes disaster reconnaissance through an automated 
 4. **Edge Triage & Survivor Mapping**
    Ultralytics YOLOv8n runs inference over thermal camera feeds directly on edge compute boards (delivering **30 FPS at 7–15W**). Confirmed casualty coordinates and clear, debris‑free medic transit routes are packaged and transmitted back to ground teams.
 
-> 🖼️ *Simulation Scene — High‑Fidelity Drone Fleet Operating in GPS‑Denied Disaster Ruins*
->
-> 🖼️ *Web/App Tactical GCU Dashboard — 2D/3D Cesium Map with Waypoints and CoT Tracking*
->
-> 🖼️ *Simulation Data — ESKF Multi‑Sensor Fusion Odometry and YOLOv8n Inference Graphs*
-
 ---
 
 ## 🎥 3. Demonstration
 
-- **Project Demonstration & SITL Flight Verification:** [Watch the demo video](https://youtube.com/your-demo-link-here)
+- **Prototype Demonstration:** [Watch the demo video](https://youtu.be/OGH36LjND9g)
 
 ---
+
+## 🎥 3.2. Prototype Images
+
+-**Ground Control Unit, codenamed ("Sentinel")**
+--**Using Ceasium 3d Map**
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0abc4bb9-c872-4a9a-838c-befb765e8bf4" />
+--**Display of relayed Telemetry**
+<img width="6340" height="3634" alt="image" src="https://github.com/user-attachments/assets/58a42e95-9cc0-4eab-a206-fee8c8b47f8e" />
+
+-**MATLAB SIMULATION**
+--**Test run in a default Simulink Scene**
+<img width="766" height="480" alt="{typeexcalidrawclipboard,elements {idTWimCFytCZpdhGaAHub8r,typeimage,x7189 756460070988,y8909 422975450347,width6383 040258789063,height3989 4001617431636,angle0,strokeColortransparent,backgroundC" src="https://github.com/user-attachments/assets/7fd78cdd-0f0c-43f4-b197-ad9491c45411" />
+--**Data Collected In UAV brain in Test Run**
+<img width="6403" height="4009" alt="image" src="https://github.com/user-attachments/assets/62424133-6132-4fa8-87f7-bc4385ea8b9a" />
 
 ## 🗂️ 4. Nomenclature & Tactical Directory
 
