@@ -131,8 +131,7 @@ Each UAV variant is purpose-built for a distinct role in the rescue pipeline, bu
 
 ### BAAJ-RSXX — Seeker (Scout / Swarm)
 
-<img width="2150" height="1290" alt="image" src="https://github.com/user-attachments/assets/9f9c66df-2add-4119-aaa9-4f63c6e14422" />
-
+<img width="560" alt="BAAJ-RSXX Seeker" src="https://github.com/user-attachments/assets/9f9c66df-2add-4119-aaa9-4f63c6e14422" />
 
 The Seeker is the primary light unit that searches the disaster site for survivors using thermal imaging and YOLO, then relays survivor coordinates to ground workers. It also scans the terrain it flies over to generate a route for ground workers to reach a survivor's location, and can reroute that path if it becomes blocked. Seeker units can operate individually or network together as a **swarm unit** for wider search coverage.
 
@@ -146,8 +145,7 @@ The Seeker is the primary light unit that searches the disaster site for survivo
 
 ### BAAJ-CLXX — Courier (Logistics)
 
-<img width="1814" height="1299" alt="image" src="https://github.com/user-attachments/assets/9049151e-07fc-47c4-bb62-9759152ca2bc" />
-
+<img width="560" alt="BAAJ-CLXX Courier" src="https://github.com/user-attachments/assets/9049151e-07fc-47c4-bb62-9759152ca2bc" />
 
 The Courier is the relief-delivery unit, supplying relief materials directly to confirmed survivor locations. It shares the Seeker's full sensor and navigation suite, with the added ability to carry and drop payloads.
 
@@ -158,10 +156,9 @@ The Courier is the relief-delivery unit, supplying relief materials directly to 
 
 ### BAAJ-C2XX — Overseer (Command / Relay)
 
-<img width="2547" height="1158" alt="image" src="https://github.com/user-attachments/assets/f9be7b38-458b-4028-a314-7dadcfcdafe1" />
+<img width="560" alt="BAAJ-C2XX Overseer" src="https://github.com/user-attachments/assets/f9be7b38-458b-4028-a314-7dadcfcdafe1" />
 
-
-The Overseer is the high-altitude command and relay node, providing airborne coordination and more Advanced LIDAR mapping support for the rest of the fleet.
+The Overseer is the high-altitude command and relay node, providing airborne coordination and more advanced LiDAR mapping support for the rest of the fleet.
 
 **Features:**
 - Full 3D map creation
