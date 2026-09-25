@@ -239,7 +239,3 @@ The simulation and control validation phases of Project B.A.A.J. leverage MATLAB
 - [ ] **Hardware Rollout & Procurement Alignment** — Transition retrofitted COTS airframes to field validation exercises alongside regional SDRF and civil defence units under standard Indian HADR operational protocols.
 
 ---
-
-<div align="center">
-<sub>Built for <b>Smart India Hackathon 2026</b> · Problem Statement <code>SIH26206</code></sub>
-</div>
